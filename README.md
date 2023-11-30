@@ -49,4 +49,4 @@ Future enhancements for these projects may include:
 
 ### Contributors
 
-- [BISHAL GANAI](https://github.com/bishalganai05): Data science intern at CodeClause during August 2023, worked on Churn Prediction and Market Basket Analysis projects.
+- [@BISHAL GANAI](https://github.com/bishalganai05): Data science intern at CodeClause during August 2023, worked on Churn Prediction and Market Basket Analysis projects.
