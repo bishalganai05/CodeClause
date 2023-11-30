@@ -35,9 +35,9 @@ The Market Basket Analysis project utilizes the Apriori Algorithm to extract ass
 
 ### How to Use
 
-1. **Clone the Repository**: `git clone [repository-url]`
+1. **Clone the Repository**: `git clone [https://github.com/bishalganai05/CodeClause]`
    
-2. **Access Project Folders**: Navigate to the respective project folders (`Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression` or `Market_Basket_Analysis_in_Python_using_Apriori_Algorithm`).
+2. **Access Project Folders**: Navigate to the respective project folders (`https://github.com/bishalganai05/CodeClause/tree/main/Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression` or `https://github.com/bishalganai05/CodeClause/tree/main/Market_Basket_Analysis_in_Python_using_Apriori_Algorithm`).
 
 3. **Explore Project Files**: Open the Jupyter Notebook (.ipynb) files using Jupyter Notebook or Jupyter Lab to view the project code, analysis, and results.
 
